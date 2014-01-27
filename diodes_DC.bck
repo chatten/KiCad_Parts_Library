@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: 2014-01-26 8:23:07 PM
+#
+$CMP BZV90-C6V2,115
+D Diode zener
+K DEV DIODE
+$ENDCMP
+#
+#End Doc Library
